@@ -1,7 +1,7 @@
 <p align="center"> 
-      <h1 align="center">X BOT MD MD</h1>
+      <h1 align="center">XOUL BOT MD</h1>
   <a href="https://x-md-qr-elctro-wizard.koyeb.app">
-   <img alt="ASWIN SPARKY" height="300" src="https://i.imgur.com/Q2UNwXR.jpg">
+   <img alt="ASWIN SPARKY" height="300" src="https://i.imgur.com/qedp4Pl.jpeg">
   </a>
 </p>
    
@@ -136,7 +136,7 @@
 
 ---
 
-## 🗿 Why Should You Use X-BOT-MD as your Base :
+## 🗿 Why Should You Use XOUL-BOT-MD as your Base :
 
       
 <details close>
