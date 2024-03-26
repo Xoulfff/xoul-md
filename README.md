@@ -7,7 +7,7 @@
    
 <p align="center">
 
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/JjzEUDkJgke1vPGK3GAvG6" target="_blank">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/I9nbTrCXVCIFgKMemBnbet" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
@@ -57,7 +57,7 @@
     <br>
 <a href='https://app.koyeb.com/apps/new/import-project' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb'/></a>
 
-#### DEPLOY TO HEROKU ( WASTE 😹 )
+#### DEPLOY TO HEROKU (SIMPLE METHOD)
 
 1. If You don't have a account in Heroku. Create a account.
     <br>
