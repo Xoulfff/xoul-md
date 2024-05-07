@@ -9,14 +9,9 @@
 
   <a aria-label="Join our chats" href="https://chat.whatsapp.com/DilbX3dDXDbDQEXQUotM1t" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
 
-  
-<p align="center">
 
-  <a aria-label="Tutorial" href="https://youtu.be/SFiPGCRbe8A?si=vqMF-Z5jLBIVVPVR" target="_blank">
-    <img alt="youtube" src="https://img.shields.io/badge/Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  
+
 ---
 
 ### FORK THIS REPO
