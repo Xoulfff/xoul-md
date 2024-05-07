@@ -40,17 +40,6 @@
 * Now fork it and enjoy 🗿🙌🏻
 <br>
 
-#### DEPLOY TO KOYEB 
-
-1. If You don't have a account in koyeb. Create a account.
-    <br>
-<a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb'/></a>
-
-2. Get [Koyeb api key](https://app.koyeb.com/account/api)
-
-3. Now Deploy
-    <br>
-<a href='https://app.koyeb.com/apps/new/import-project' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb'/></a>
 
 #### DEPLOY TO HEROKU (SIMPLE METHOD)
 
@@ -63,32 +52,4 @@
 <a href='https://chat.whatsapp.com/JjzEUDkJgke1vPGK3GAvG6' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
 
 
-
-
-## IN DEVLOPMENT { Stay Turned... } 🙂🙌🏻 
-
-#### DEPLOY ON RAILWAY
-
-1. If You don't have a account in Railway. Create a account.
-    <br>
-<a href='https://railway.app' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=railway'/></a>
-
-2. Now Deploy
-    <br>
-<a href='https://railway.app' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=railway'/></a>
-
 ---
-
-## 🗿 Why Should You Use XOUL-BOT-MD as your Base :
-
-      
-<details close>
-<summary>Read More</summary>
-
-<br>
-
-- XOUL-BOT-MD is a `fully open source 😹🖐🏻` bot which means `no copyright`.
-- XOUL-BOT-MD is a `multi character bot` which means you can `change bot's character` to any of the 8 added characters or add more characters by yourself.
-- XOUL-BOT-MD is a `multi database bot Eg : MongoVedi,PostgreMYR,VediDB` which means you can use 3 different databases at the time.
-- XOUL-BOT-MD is a `multi mode` bot which means you can use it in `Self / Public / Private` mode.
-    
