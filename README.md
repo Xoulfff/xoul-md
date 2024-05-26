@@ -41,7 +41,7 @@ h</p>
 
 
 
-# DEPLOY SETUP
+# Aɴᴛɪʙᴀɴ Bᴀɴ Mᴇᴛʜᴏᴛᴅ
 
 
 ### 1. FORK THIS REPO
