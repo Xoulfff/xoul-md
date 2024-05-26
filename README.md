@@ -1,4 +1,4 @@
-</p>
+h</p>
 <p align="center">
   <a href="https://chat.whatsapp.com/BxR0LrCkAVKGHriVvo7sKy">
     <img alt=Support height="360" src="https://i.imgur.com/NlixkpK.jpeg"> 
@@ -68,4 +68,4 @@
 
 Eᴅᴀ Mᴡᴏɴᴇ Hᴀᴩᴩʏ Aʟʟᴇʏ 🤌🏻🌚
 
-pʀɪᴠᴀᴛᴇ Cᴄ Uꜱᴇ Aᴋᴋᴋɪʏᴀᴀʟ Bᴀɴ Aᴠɪʟʟᴀ 🤌🏻🤍
+Pʀɪᴠᴀᴛᴇ Cᴄ Uꜱᴇ Aᴋᴋᴋɪʏᴀᴀʟ Bᴀɴ Aᴠɪʟʟᴀ 🤌🏻🤍
