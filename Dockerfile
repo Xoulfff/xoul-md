@@ -1,5 +1,6 @@
-FROM quay.io/loki-xer/jarvis-md:latest
-RUN git clone https://github.com/xoulfff/xoul-md/root/xoul-md/
-WORKDIR /root/xoulfff-md/
+FROM quay.io/souravkl11/rgnk-v3:latest
+
+RUN git clone https://github.com/souravkl11/raganork-md /railway/Raganork
+WORKDIR /railway/Raganork
 RUN yarn install --network-concurrency 1
-CMD ["npm", "start"]
+CMD ["node", "index.js"]
