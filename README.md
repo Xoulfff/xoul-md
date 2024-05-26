@@ -23,11 +23,10 @@
 
 
    <p align="left">
-  <a href="https://github.com/xoulfff/XOUL-MD-V1/fork">
-    <img src="https://img.shields.io/github/forks/xoulfff/XOUL-MD?label=Fork&style=social">
+  <a href="https://github.com/xoulfff/xoul-md/fork">
+    <img src="https://img.shields.io/github/forks/xoulfff/xoul-md?label=Fork&style=social">
   <p align="left"> 
-  <a href="https://github.com/xoulfff/XOUL-MD-V1/stargazers">
-    <img src="https://img.shields.io/github/stars/xoulfff/XOUL-MD-V1?style=social">
+  <a href="https://github.com/xoulfff/xoul-md/stargaze  <img src="https://img.shields.io/github/stars/xoulfff/xoul-md?style=social">
       
   
  
@@ -46,7 +45,7 @@
 
 
 ### 1. FORK THIS REPO
-<a href='https://github.com/xoulfff/XOUL-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/xoulfff/xoul-md/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. SCAN QR CODE
 <a href='https://qrgen6393-2d70eb32b743.herokuapp.com' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
