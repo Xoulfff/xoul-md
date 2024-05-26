@@ -1,0 +1,106 @@
+{
+    "name": "Xᴏᴜʟ-Mᴅ",
+    "version":"1.0.0",
+    "description": "Xᴏᴜʟ Multi Device whatsappbot",
+    "logo": "https://i.imgur.com/NlixkpK.jpeg",
+    "keywords": ["whatsapp"],
+    "repository": "https://github.com/xoulfff/xoul-md",
+    "website": "https://github.com/xoulfff/xoul-md",
+    "success_url": "/",
+    "stack": "container",
+    "env": {
+        "BOT_INFO": {
+            "description": "botname;ownername;ownernumber;image url",
+            "required": true,
+            "value":"Xᴏᴜʟ;Xᴏᴜʟ Sᴇʀ;https://i.imgur.com/NlixkpK.jpeg"
+        },
+        "AUDIO_DATA": {
+            "description": "audio package name",
+            "required": true,
+            "value":"Xᴏᴜʟ Sᴇʀ;Xᴏᴜʟ;https://i.imgur.com/VgxJeCm.jpeg"
+        },
+        "WARN_COUNT": {
+            "description": "warn count",
+            "required": true,
+            "value":"3"
+        },
+        "MEDIA_DATA": {
+            "description": "media data that uses in list",
+            "required": true,
+            "value":"ʟɪꜱᴛ ᴍᴇɴᴜ;Xᴏᴜʟ Sᴇʀ;https://i.imgur.com/ltPPMTh.jpeg"
+        },
+        "HANDLER": {
+            "description": "handler for bot. all so can be null or false",
+            "required": true,
+            "value":"null"
+        },
+        "SESSION_ID": {
+            "description": "session id",
+            "required": true
+        },
+        "WORK_TYPE": {
+            "description": "worker type public or private",
+            "required": true,
+            "value":"private"
+        },
+        "HEROKU_APP_NAME": {
+            "description": "heroku app name, same as above entered",
+            "required": true
+        },
+        "HEROKU_API_KEY": {
+            "description": "Heroku account api key, https://dashboard.heroku.com/account",
+            "required": true
+        },
+        "STICKER_PACKNAME": {
+            "description": "sticker package name",
+            "required": true,
+            "value":"Xᴏᴜʟ-Mᴅ;xᴏᴜʟ ꜱᴇʀ"
+        },
+        "SUDO": {
+            "description": "owner number of the bot",
+            "required": false,
+            "value":"919633605648"
+        },
+        "ALLWAYS_ONLINE": {
+            "description": "show bot number last seen as online",
+            "required": false,
+            "value":"false"
+        },
+        "READ_MSG": {
+            "description": "Read all messages",
+            "required": false,
+            "value":"false"
+        },
+        "SAVE_STATUS": {
+            "description": "save all status message",
+            "required": false,
+            "value":"null"
+        },
+        "STATUS_VIEW": {
+            "description": "status views use true for view all status or use only-view=jid to only view given jid status or use not-view=jid to not view the one person status and view anothers",
+            "required": false,
+            "value":"false"
+        },
+        "REJECT_CALL": {
+            "description": "automatic reject call",
+            "required": true,
+            "value":"false"
+        },
+        "ERROR_MSG": {
+            "description": "send error messages to bot number",
+            "required": true,
+            "value":"false"
+        },
+        "BAN_CHATS": {
+            "description": "ban chat from useing bot value: jid1,jid2",
+            "required": false,
+            "value":""
+        }
+    },
+      "addons": [{ "plan": "heroku-postgresql:basic" }],
+      "buildpacks": [
+                    { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" },
+                    { "url": "https://github.com/carlosdommor/heroku-buildpack-ffmpeg-latest" }
+    ]
+  }
+  
