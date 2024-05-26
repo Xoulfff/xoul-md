@@ -1,106 +1,107 @@
 {
-    "name": "xoul-md",
-    "version":"1.0.0",
-    "description": "Xᴏᴜʟ Multi Device whatsappbot",
+    "name": "xoul ser",
+    "description": "WhatsApp public/user bot",
     "logo": "https://i.imgur.com/NlixkpK.jpeg",
-    "keywords": ["whatsapp"],
+    "keywords": ["WhatsApp"],
     "repository": "https://github.com/xoulfff/xoul-md",
-    "website": "https://github.com/xoulfff/xoul-md",
-    "success_url": "/",
     "stack": "container",
     "env": {
-        "BOT_INFO": {
-            "description": "botname;ownername;ownernumber;image url",
+        "HANDLERS": {
+            "description": "Prefix of commands. Can be also false",
             "required": true,
-            "value":"Xᴏᴜʟ;Xᴏᴜʟ Sᴇʀ;https://i.imgur.com/NlixkpK.jpeg"
+            "value":".,"
         },
-        "AUDIO_DATA": {
-            "description": "audio package name",
+        "MULTI_HANDLERS": {
+            "description": "Use prefix as given handlers and also without handlers",
             "required": true,
-            "value":"Xᴏᴜʟ Sᴇʀ;Xᴏᴜʟ;https://i.imgur.com/VgxJeCm.jpeg"
+            "value":"false"
         },
-        "WARN_COUNT": {
-            "description": "warn count",
+        "READ_MESSAGES": {
+            "description": "Bot will read all messages. Can be also false",
             "required": true,
-            "value":"3"
+            "value":"false"
         },
-        "MEDIA_DATA": {
-            "description": "media data that uses in list",
+        "READ_COMMAND": {
+            "description": "Bot will read all commands♥️👀 (blue tick). Can be also false",
             "required": true,
-            "value":"ʟɪꜱᴛ ᴍᴇɴᴜ;Xᴏᴜʟ Sᴇʀ;https://i.imgur.com/ltPPMTh.jpeg"
-        },
-        "HANDLER": {
-            "description": "handler for bot. all so can be null or false",
-            "required": true,
-            "value":"null"
-        },
-        "SESSION_ID": {
-            "description": "session id",
-            "required": true
-        },
-        "WORK_TYPE": {
-            "description": "worker type public or private",
-            "required": true,
-            "value":"private"
+            "value":"true"
         },
         "HEROKU_APP_NAME": {
-            "description": "heroku app name, same as above entered",
-            "required": true
-        },
-        "HEROKU_API_KEY": {
-            "description": "Heroku account api key, https://dashboard.heroku.com/account",
-            "required": true
-        },
-        "STICKER_PACKNAME": {
-            "description": "sticker package name",
+            "description": "Exact name which you gave at the top",
             "required": true,
-            "value":"Xᴏᴜʟ-Mᴅ;xᴏᴜʟ ꜱᴇʀ"
+            "value":"setvar cmd onnum wrk avilla 🌚👀"
+        },
+        "STICKER_DATA": {
+            "description": "Name of stickers👀 created using bot. Can also split using ;",
+            "required": true,
+            "value":"Raganork pack;Author name"
+        },
+        "CHATBOT": {
+            "description": "AI chatbot no use😂",
+            "required": true,
+            "value":"off"
+        },
+        "BOT_NAME": {
+            "description": "Name of AI chatbot",
+            "required": true,
+            "value":"Raganork"
+        },
+        "AUDIO_DATA": {
+            "description": "Name of audio (take) name;name;image(url)",
+            "required": true,
+            "value":"Raganork;Souravkl11;https://i.imgur.com/YchATyT.jpeg"
+        },
+        "MODE": {
+            "description": "Private or public",
+            "required": true,
+            "value":"public"
         },
         "SUDO": {
-            "description": "owner number of the bot",
+            "description": "These numbers can control your bot. seperate with commas",
             "required": false,
             "value":"919633605648"
         },
-        "ALLWAYS_ONLINE": {
-            "description": "show bot number last seen as online",
-            "required": false,
-            "value":"false"
-        },
-        "READ_MSG": {
-            "description": "Read all messages",
-            "required": false,
-            "value":"false"
-        },
-        "SAVE_STATUS": {
-            "description": "save all status message",
-            "required": false,
-            "value":"null"
-        },
-        "STATUS_VIEW": {
-            "description": "status views use true for view all status or use only-view=jid to only view given jid status or use not-view=jid to not view the one person status and view anothers",
-            "required": false,
-            "value":"false"
-        },
-        "REJECT_CALL": {
-            "description": "automatic reject call",
-            "required": true,
-            "value":"false"
-        },
-        "ERROR_MSG": {
-            "description": "send error messages to bot number",
-            "required": true,
-            "value":"false"
-        },
-        "BAN_CHATS": {
-            "description": "ban chat from useing bot value: jid1,jid2",
+        "BLOCK_CHAT": {
+            "description": "Block bot in specific groups, enter jids here sepereated with commas",
             "required": false,
             "value":""
+        },
+        "REJECT_CALLS": {
+            "description": "Auto reject calls, true/false",
+            "required": false,
+            "value":"false"
+        },
+        "ALLOWED": {
+            "description": "Country codes allowed by antifake",
+            "required": false,
+            "value":"91"
+        },
+        "WARN": {
+            "description": "Warn limit",
+            "required": false,
+            "value":"3"
+        },
+        "LANGUAGE": {
+            "description": "Available languages: english,manglish,turkish",
+            "required": false,
+            "value":"english,malayalam"
+        },
+        "AUTO_READ_STATUS": {
+            "description": "View status updates automatically",
+            "required": false,
+            "value":"true"
+        },
+        "ALIVE": {
+            "description": "Alive message, customize your alive msg by looking wiki",
+            "required": false,
+            "value":"_Bot is alive since {uptime}_"
+        },
+       "SESSION": {
+            "description": "Your session code, obtained by scanning QR",
+            "required": true         
         }
     },
-      "addons": [{ "plan": "heroku-postgresql:basic" }],
-      "buildpacks": [
-                    { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" },
-                    { "url": "https://github.com/carlosdommor/heroku-buildpack-ffmpeg-latest" }
-    ]
-  }
-  
+    "addons": [{
+      "plan": "heroku-postgresql"
+        }]
+}
