@@ -1,7 +1,7 @@
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/BxR0LrCkAVKGHriVvo7sKy">
-    <img alt=Support height="350" src="https://i.imgur.com/NlixkpK.jpeg"> 
+    <img alt=Support height="360" src="https://i.imgur.com/NlixkpK.jpeg"> 
     </p>
 <h1 align="center">      XOUL-MULTI-DEVICE (BETA)
 </h1>
@@ -60,7 +60,7 @@
 
 2. Now Deploy
     <br>
-<a href='https://heroku.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://heroku.com/deploy/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 
