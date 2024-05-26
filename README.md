@@ -60,7 +60,9 @@
 
 2. Now Deploy
     <br>
-<a href="https://dashboard.heroku.com/new-app?template=https://github.com/xoulfff/xoul-md" target="blank"><img align="center" src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href="https://dashboard.heroku.com/new-app?template=https://github.com/xoulfff/xoul-md" target="blank"><img align="center" src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+
 
 
 
