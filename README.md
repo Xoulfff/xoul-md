@@ -60,8 +60,7 @@
 
 2. Now Deploy
     <br>
-<a href="https://dashboard.heroku.com/new-app?template=https://github.com/xoulfff/xoul-md" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy bot" height="112" width="310" /></a>
-
+<a href="https://dashboard.heroku.com/new-app?template=https://github.com/xoulfff/xoul-md" target="blank"><img align="center" src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 
