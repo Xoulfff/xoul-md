@@ -12,7 +12,7 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/xoulfff/xoul-md"><img title="Author" src="https://img.shields.io/badge/XOUL-MULTI_DEVICE-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/xoulfff"><img title="Author" src="https://img.shields.io/badge/XOUL-MULTI_DEVICE-black?style=for-the-badge&logo=github"></a>
 <p/>
 
 
@@ -44,8 +44,8 @@
 # Aɴᴛɪʙᴀɴ Bᴀɴ Mᴇᴛʜᴏᴅ 😮‍💨🌝
 
 
-### 1. FORK THIS REPO
-<a href='https://github.com/xoulfff/xoul-md/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+#Dᴏɴ'ᴛ Fᴏʀᴋ Jᴜꜱᴛ Sᴄᴀɴ Aɴᴅ Dᴇᴩʟᴏʏ🤌🏻🌚
+
 
 ### 2. SCAN QR CODE
 <a href='https://raganork.online/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
