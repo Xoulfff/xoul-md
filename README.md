@@ -47,7 +47,7 @@
 # Dᴏɴ'ᴛ Fᴏʀᴋ Jᴜꜱᴛ Sᴄᴀɴ Aɴᴅ Dᴇᴩʟᴏʏ🤌🏻🌚
 
 
-### 2. SCAN QR CODE
+### 1. SCAN QR CODE
 <a href='https://raganork.online/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 
